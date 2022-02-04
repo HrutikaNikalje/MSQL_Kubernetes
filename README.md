@@ -1,1 +1,1 @@
-# MSQL_Kubernetes
+# MySQL_Kubernetes
